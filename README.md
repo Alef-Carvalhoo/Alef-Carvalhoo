@@ -27,3 +27,6 @@ IT student at the British School of Creative Arts and Technology (EBAC) , I main
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+![Snake animation](https://github.com/alextayron/alextayron/blob/output/github-contribution-grid-snake.svg)
+</div></br>
