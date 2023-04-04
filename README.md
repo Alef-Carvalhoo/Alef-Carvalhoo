@@ -7,7 +7,7 @@
 
 
 ## About me 📚📚
-IT student at the British School of Creative Arts and Technology (EBAC) , I mainly use javascript, html, css, JAVA, react and I intend to leave Ebac as a fullstack java developer, entering this area with a long way to go but with a great desire to learn every day.
+IT student at the British School of Creative Arts and Technology (EBAC) , I mainly use javascript, html, CSS, JAVA, react and I intend to leave Ebac as a fullstack java developer, entering this area with a long way to go but with a great desire to learn every day.
 
 ## 📊📊 Details 📊📊
 
