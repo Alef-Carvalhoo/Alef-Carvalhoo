@@ -11,7 +11,7 @@ IT student at the British School of Creative Arts and Technology (EBAC) , I main
 
 ## 📊📊 Details 📊📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alef-Carvalhoo&show_icons=true&theme=radical).](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alef-Carvalhoo&show_icons=true&theme=tokyonight).](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Carvalhoo)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects 🏆🥇
